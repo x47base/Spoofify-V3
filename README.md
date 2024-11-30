@@ -87,7 +87,7 @@ Commercial use is strictly prohibited without prior written permission.
 
 ## 🌐 Links
 
-Live Website: [Spoofify Website](https://vercel.com/404)
+Live Website: [Spoofify Website](https://spoofify-v3.vercel.app/)
 
 Support: [Support Page](https://buymeacoffee.com/drgreenjetb)
 
