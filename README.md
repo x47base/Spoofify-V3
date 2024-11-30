@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 Features
+## 🚀 Features (Planned)
 - **Upload and Discover NCS Music**: Users can upload and explore a library of verified No Copyright Sounds.
 - **Personalized Playlists**: Save your favorite tracks and create custom playlists.
 - **Sound Verification**: Every uploaded sound is reviewed to ensure compliance with copyright-free standards.
@@ -88,7 +88,9 @@ Commercial use is strictly prohibited without prior written permission.
 ## 🌐 Links
 
 Live Website: [Spoofify Website](https://vercel.com/404)
+
 Support: [Support Page](https://buymeacoffee.com/drgreenjetb)
+
 Issues: [GitHub Issues](https://github.com/x47base/Spoofify-V3/issues)
 
 ---
